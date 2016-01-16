@@ -2,7 +2,7 @@
 ===========================
 
 ### About
-OpenFrameworks application to test totem triggering using OSC in Continent Rouge installation
+OpenFrameworks application to test totem triggering using noTours database communication system in Continent Rouge installation
 
 Attribution-NonCommercial-ShareAlike 3.0
 http://creativecommons.org/licenses/by-nc-sa/3.0/
@@ -21,7 +21,7 @@ horaciogd at vhplab dot net
 
 ### How to
 
-	1. Create an openframeworks project adding the following addons ofxOsc + ofxXmlSettings + ofxHttpUtils + ofxJSON.
+	1. Create an openframeworks project adding the following addons ofxXmlSettings + ofxHttpUtils + ofxJSON.
 	2. Copy and remplace main.cpp, ofApp.cpp and ofApp.h from the repository to the src folder of your project.
 	3. Add the remaining 8 files to your project.
 		VHPbutton.cpp

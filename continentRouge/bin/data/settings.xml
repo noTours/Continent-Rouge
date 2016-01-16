@@ -1,0 +1,23 @@
+<OSC>true</OSC>
+<HOST>localhost</HOST>
+<PORT>8800</PORT>
+<PROJECT>
+    <ID>1538</ID>
+    <SVG>mexico.svg</SVG>
+    <ZOOM>18</ZOOM>
+    <BUTTON>
+        <NAME>Continent Rouge Filux</NAME>
+        <X>760</X>
+        <Y>60</Y>
+        <OX>38</OX>
+        <OY>12</OY>
+    </BUTTON>
+    <NW>
+        <LATITUDE>19.434283</LATITUDE>
+        <LONGITUDE>-99.165748</LONGITUDE>
+    </NW>
+    <SE>
+        <LATITUDE>19.425395</LATITUDE>
+        <LONGITUDE>-99.155222</LONGITUDE>
+    </SE>
+</PROJECT>
